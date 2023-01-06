@@ -8,7 +8,7 @@ VERSION = __version__
 DESCRIPTION = open('README.md').read()
 AUTHOR = __author__
 AUTHOR_EMAIL = __email__
-URL = 'https://github.com/DuTra01/CheckUser'
+URL = 'https://github.com/osvaldo/gl-mold/CheckUser'
 LICENSE = 'MIT'
 
 setup(
